@@ -15,7 +15,7 @@ body{
     border-radius: 20px;
     width: 75%;
     text-align: center;
-    color: rgb(101, 65, 131);
+    
 
 }
 .heading{
@@ -24,12 +24,15 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  text-shadow: 5px 5px 2px rgba(0,0,0,.3);
  letter-spacing: 2px;
+ color: rgb(101, 65, 131);
 
 }
 .joke{
     font-size: 25px;
     font-weight: 500;
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 40px;
+    color: rgb(18, 0, 48);
 
 }
 .btn{
